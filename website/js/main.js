@@ -440,10 +440,12 @@
         {
           let manualName = $('.manual-name');
           let versionManual = $('.version-manual');
+          let versionEgret = $('.version-egret');
           let copyright = $('.copyright');
 
           manualName.text(manual_name);
           versionManual.text(version_manual);
+          versionEgret.text(version_egret);
           copyright.text(copyright_text);
 
           let searchKeyword = getUrlParameter('search');
