@@ -442,11 +442,14 @@
           let versionManual = $('.version-manual');
           let versionEgret = $('.version-egret');
           let copyright = $('.copyright');
+          let homepageLink = $('.homepage-link');
 
           manualName.text(manual_name);
           versionManual.text(version_manual);
           versionEgret.text(version_egret);
           copyright.text(copyright_text);
+          homepageLink.text(homepage_text);
+          homepageLink.attr('href', homepage_url);
 
           let searchKeyword = getUrlParameter('search');
           if (searchKeyword != null) {
