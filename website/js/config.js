@@ -13,7 +13,7 @@
 // Manual config.
 const manual_name = "JCSEgret";
 const version_manual = "0.0.1";
-const version_egret = "5.2.10";
+const version_egret = "5.2.12";
 
 // Copyright text to show on the website.
 const copyright_text = "Copyright © 2018 JCSEgret Group. Built: 2018-10-22.";
