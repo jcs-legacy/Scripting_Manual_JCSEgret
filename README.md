@@ -4,7 +4,7 @@
 
 # Scripting Manual - JCSEgret #
 
-Scripting manual website for JCSEgret API. <br/><br/>
+Scripting manual website for JCSEgret API. 
 
 
 ## Links ##
