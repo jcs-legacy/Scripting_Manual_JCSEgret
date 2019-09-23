@@ -1,14 +1,3 @@
-<!--
-   - $File: MathUtil.html $
-   - $Date: 2018-10-26 21:34:56 $
-   - $Revision: $
-   - $Creator: Jen-Chieh Shen $
-   - $Notice: See LICENSE.txt for modification and distribution information
-   -                   Copyright © 2018 by Shen, Jen-Chieh $
--->
-
-
-
 <div id="content-header">
   <h1>MathUtil</h1>
 </div>
