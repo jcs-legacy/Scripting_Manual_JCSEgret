@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>GameManager</h1>
-</div>
+# GameManager
 
-<p>
-  Handle the game behaviours.
-</p>
+Handle the game behaviours.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

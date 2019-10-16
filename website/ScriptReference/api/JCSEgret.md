@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>JCSEgret</h1>
-</div>
+# JCSEgret
 
-<p>
-  Application wrapper for better application management.
-</p>
+Application wrapper for better application management.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>SceneManager</h1>
-</div>
+# SceneManager
 
-<p>
-  Scene handle.
-</p>
+Scene handle.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

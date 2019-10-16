@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Screen</h1>
-</div>
+# Screen
 
-<p>
-  Screen information collector.
-</p>
+Screen information collector.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

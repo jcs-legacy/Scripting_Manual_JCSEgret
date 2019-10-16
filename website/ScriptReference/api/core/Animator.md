@@ -1,16 +1,10 @@
-<div id="content-header">
-  <h1>Animator</h1>
-</div>
+# Animator
 
-<p>
-  Handle multiple animations and play the animation in the proper way. Usually just
-  play one animation at a time.
-</p>
+Handle multiple animations and play the animation in the proper way. Usually just
+play one animation at a time.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

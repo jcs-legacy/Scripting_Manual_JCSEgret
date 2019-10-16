@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Animation</h1>
-</div>
+# Animation
 
-<p>
-  Simple 2D animation system that handle frame by frame animation.
-</p>
+Simple 2D animation system that handle frame by frame animation.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

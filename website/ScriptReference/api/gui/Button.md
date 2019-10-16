@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Button</h1>
-</div>
+# Button
 
-<p>
-  Button handle.
-</p>
+Button handle.
 
 
-<br/>
-<h2>Getter</h2>
-<br/>
+## Getter
 
 <table>
   <tr>

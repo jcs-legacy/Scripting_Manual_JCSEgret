@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Input</h1>
-</div>
+# Input
 
-<p>
-  Manage all kind of input device.
-</p>
+Manage all kind of input device.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

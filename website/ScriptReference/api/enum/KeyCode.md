@@ -1,7 +1,3 @@
-<div id="content-header">
-  <h1>KeyCode</h1>
-</div>
+# KeyCode
 
-<p>
-  Keycode define.
-</p>
+Keycode define.

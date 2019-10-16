@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Component</h1>
-</div>
+# Component
 
-<p>
-  Component base class, handle usual component duty.
-</p>
+Component base class, handle usual component duty.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

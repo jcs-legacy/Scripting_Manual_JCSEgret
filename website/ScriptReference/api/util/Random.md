@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Random</h1>
-</div>
+# Random
 
-<p>
-  Random util.
-</p>
+Random util.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

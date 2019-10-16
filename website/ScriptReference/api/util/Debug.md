@@ -1,16 +1,10 @@
-<div id="content-header">
-  <h1>Debug</h1>
-</div>
+# Debug
 
-<p>
-  Debugging utility class for developer to use and easier to see the debug
-  informations.
-</p>
+Debugging utility class for developer to use and easier to see 
+the debug informations.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

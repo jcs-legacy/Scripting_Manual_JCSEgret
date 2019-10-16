@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Scene</h1>
-</div>
+# Scene
 
-<p>
-  Scene object handle multiple interfaces.
-</p>
+Scene object handle multiple interfaces.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

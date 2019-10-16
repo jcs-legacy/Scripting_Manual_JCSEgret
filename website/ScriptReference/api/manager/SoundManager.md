@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>SoundManager</h1>
-</div>
+# SoundManager
 
-<p>
-  Sound handle.
-</p>
+Sound handle.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

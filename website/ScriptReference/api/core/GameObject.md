@@ -1,11 +1,7 @@
-<div id="content-header">
-  <h1>GameObject</h1>
-</div>
+# GameObject
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

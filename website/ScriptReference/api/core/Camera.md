@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Camera</h1>
-</div>
+# Camera
 
-<p>
-  Simulate 2d camera.
-</p>
+Simulate 2d camera.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

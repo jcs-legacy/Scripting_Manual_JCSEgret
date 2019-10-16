@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Time</h1>
-</div>
+# Time
 
-<p>
-  Time master/controller for JCSEgret.
-</p>
+Time master/controller for JCSEgret.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

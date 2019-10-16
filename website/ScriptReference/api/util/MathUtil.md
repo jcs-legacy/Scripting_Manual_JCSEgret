@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>MathUtil</h1>
-</div>
+# MathUtil
 
-<p>
-  Math util.
-</p>
+Math util.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

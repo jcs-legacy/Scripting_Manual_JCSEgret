@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>DisplayObject</h1>
-</div>
+# DisplayObject
 
-<p>
-  Display object interface.
-</p>
+Display object interface.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

@@ -1,10 +1,7 @@
-<div id="content-header">
-  <h1>Util</h1>
-</div>
+# Util
 
-<br/>
-<h2>Functions</h2>
-<br/>
+
+## Functions
 
 <table>
   <tr>

@@ -1,7 +1,3 @@
-<div id="content-header">
-  <h1>DisplayObjectContainer</h1>
-</div>
+# DisplayObjectContainer
 
-<p>
-  Display object container define.
-</p>
+Display object container define.

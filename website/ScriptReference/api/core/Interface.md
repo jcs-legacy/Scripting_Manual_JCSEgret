@@ -1,16 +1,10 @@
-<div id="content-header">
-  <h1>Interface</h1>
-</div>
+# Interface
 
-<p>
-  Interface contain list of display object and ready to display as a group
-  instead of individual component.
-</p>
+Interface contain list of display object and ready to display as a group
+instead of individual component.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

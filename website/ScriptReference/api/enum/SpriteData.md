@@ -1,7 +1,3 @@
-<div id="content-header">
-  <h1>SpriteData</h1>
-</div>
+# SpriteData
 
-<p>
-  List of sprie properties.
-</p>
+List of sprie properties.

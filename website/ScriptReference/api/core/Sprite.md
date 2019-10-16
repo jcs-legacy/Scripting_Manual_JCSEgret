@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>Sprite</h1>
-</div>
+# Sprite
 
-<p>
-  Sprite display in the game.
-</p>
+Sprite display in the game.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>
