@@ -13,6 +13,9 @@
 // Manual config.
 const manual_name = "JCSEgret";
 
+const header_color = '#0B3254';
+const arrow_color = '#19E3B1';
+
 // Version config.
 const version_title_01 = "JCSEgret Version: ";
 const version_title_02 = "Egret Version: ";
