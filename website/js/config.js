@@ -9,14 +9,15 @@
 
 "use strict";
 
-
-// Manual config.
+// Manual
 const manual_name = "JCSEgret";
 
+// Theme
 const header_color = '#0B3254';
 const arrow_color = '#19E3B1';
+const th_color = '#A2F2DE';
 
-// Version config.
+// Version Information
 const version_title_01 = "JCSEgret Version: ";
 const version_title_02 = "Egret Version: ";
 const version_title_03 = "";
