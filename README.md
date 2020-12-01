@@ -1,10 +1,10 @@
-[![Build Status](https://travis-ci.com/jcs090218/Scripting-Manual-JCSEgret.svg?branch=master)](https://travis-ci.com/jcs090218/Scripting-Manual-JCSEgret)
-[![Release Tag](https://img.shields.io/github/tag/jcs090218/Scripting-Manual-JCSEgret.svg?label=release)](https://github.com/jcs090218/Scripting-Manual-JCSEgret/releases/latest)
+[![Build Status](https://travis-ci.com/jcs090218/Scripting_Manual_JCSEgret.svg?branch=master)](https://travis-ci.com/jcs090218/Scripting_Manual_JCSEgret)
+[![Release Tag](https://img.shields.io/github/tag/jcs090218/Scripting_Manual_JCSEgret.svg?label=release)](https://github.com/jcs090218/Scripting_Manual_JCSEgret/releases/latest)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # Scripting Manual - JCSEgret
 
-Scripting manual website for JCSEgret API. 
+Scripting manual website for JCSEgret API.
 
 ## Links
 
